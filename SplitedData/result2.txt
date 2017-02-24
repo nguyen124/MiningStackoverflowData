@@ -1,0 +1,53 @@
+#No Split
+Top 10 users with the highest total score among questions:
+Score: 201	Name: Aron Rotteveel
+Score: 101	Name: Jon Galloway
+Score: 24	Name: Codebeef
+Score: 21	Name: Jarrod Dixon
+Score: 18	Name: Nikos Steiakakis
+Score: 18	Name: Jeff Atwood
+Score: 11	Name: dimitrisp
+Score: 11	Name: Geoff Dalgas
+Score: 9	Name: Sam
+Score: 8	Name: jdiaz
+
+
+Top 10 users with the highest total score among answers:
+Score: 123	Name: jdiaz
+Score: 72	Name: Sam
+Score: 51	Name: pilif
+Score: 41	Name: Mark S. Rasmussen
+Score: 36	Name: Glenn Slaven
+Score: 30	Name: Jauder Ho
+Score: 26	Name: dimitrisp
+Score: 22	Name: Pure.Krome
+Score: 18	Name: Jeff Atwood
+Score: 18	Name: Can Berk Güder
+
+#Split
+Top 10 users with the highest total score among questions:
+Score: 201	Name: Aron Rotteveel
+Score: 169	Name: Jon Galloway
+Score: 36	Name: Jeff Atwood
+Score: 21	Name: Jarrod Dixon
+Score: 18	Name: Nikos Steiakakis
+Score: 14	Name: ttobiass
+Score: 12	Name: MotoWilliams
+Score: 11	Name: Geoff Dalgas
+Score: 10	Name: edg
+Score: 10	Name: splattne
+
+
+Top 10 users with the highest total score among answers:
+Score: 123	Name: jdiaz
+Score: 102	Name: pilif
+Score: 70	Name: Mark S. Rasmussen
+Score: 46	Name: Sam
+Score: 30	Name: Jauder Ho
+Score: 27	Name: Glenn Slaven
+Score: 26	Name: Edmund Tay
+Score: 18	Name: Can Berk Güder
+Score: 18	Name: Jeff Atwood
+Score: 10	Name: Wayne Koorts
+
+

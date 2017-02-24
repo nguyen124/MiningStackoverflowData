@@ -1,0 +1,17 @@
+"SplitedData\users-short.xml"
+"SplitedData\posts-short.xml"
+
+"SplitedData\users-short.xml"
+"SplitedData\posts-short1.xml"
+"SplitedData\posts-short2.xml"
+
+
+"SplitedData\users-medium.xml"
+"SplitedData\posts-medium1.xml"
+"SplitedData\posts-medium2.xml"
+"SplitedData\posts-medium3.xml"
+"SplitedData\posts-medium4.xml"
+"SplitedData\posts-medium5.xml"
+"SplitedData\posts-medium6.xml"
+"SplitedData\posts-medium7.xml"
+"SplitedData\posts-medium8.xml"

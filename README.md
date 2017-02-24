@@ -3,7 +3,7 @@
 	+ The top 10 users by total score on questions asked
 	+ The top 10 users by total score on answers posted
 	In both cases, they are only interested in posts from the past 6 months.
-They are interested in usernames, not user ids. They've already written a program that generates these lists, but it takes too long, uses too much memory, and generally just works poorly.
+They are interested in usernames, not user ids.
 - The data is from Stack Overflow (technically from their affiliate site Server Fault). The full, much-larger, data set here: https://archive.org/details/stackexchange. The files that you will need are stackoverflow.com-Posts.7z and stackoverflow.com-Users.7z That download is much too big to fit into an e-mail; it's 9.2GB compressed.
 
 II)Solution: Split the big file of the posts and process it
